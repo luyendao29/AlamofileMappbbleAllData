@@ -1,0 +1,6 @@
+framework module Pods_AlamofileMappble {
+  umbrella header "Pods-AlamofileMappble-umbrella.h"
+
+  export *
+  module * { export * }
+}
